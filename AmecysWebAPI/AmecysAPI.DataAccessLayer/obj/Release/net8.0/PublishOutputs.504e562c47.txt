@@ -1,0 +1,14 @@
+C:\Users\lucia\OneDrive\Documentos\Amecys\AmecysWebAPI\AmecysAPI\out\AmecysAPI.DataAccessLayer.dll
+C:\Users\lucia\OneDrive\Documentos\Amecys\AmecysWebAPI\AmecysAPI\out\AmecysAPI.DataAccessLayer.deps.json
+C:\Users\lucia\OneDrive\Documentos\Amecys\AmecysWebAPI\AmecysAPI\out\AmecysAPI.DataAccessLayer.pdb
+C:\Users\lucia\OneDrive\Documentos\Amecys\AmecysWebAPI\AmecysAPI\out\BouncyCastle.Cryptography.dll
+C:\Users\lucia\OneDrive\Documentos\Amecys\AmecysWebAPI\AmecysAPI\out\MailKit.dll
+C:\Users\lucia\OneDrive\Documentos\Amecys\AmecysWebAPI\AmecysAPI\out\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lucia\OneDrive\Documentos\Amecys\AmecysWebAPI\AmecysAPI\out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lucia\OneDrive\Documentos\Amecys\AmecysWebAPI\AmecysAPI\out\MimeKit.dll
+C:\Users\lucia\OneDrive\Documentos\Amecys\AmecysWebAPI\AmecysAPI\out\NETCore.MailKit.dll
+C:\Users\lucia\OneDrive\Documentos\Amecys\AmecysWebAPI\AmecysAPI\out\System.Formats.Asn1.dll
+C:\Users\lucia\OneDrive\Documentos\Amecys\AmecysWebAPI\AmecysAPI\out\System.Security.Cryptography.Pkcs.dll
+C:\Users\lucia\OneDrive\Documentos\Amecys\AmecysWebAPI\AmecysAPI\out\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\lucia\OneDrive\Documentos\Amecys\AmecysWebAPI\AmecysAPI\out\AmecysAPI.Domain.dll
+C:\Users\lucia\OneDrive\Documentos\Amecys\AmecysWebAPI\AmecysAPI\out\AmecysAPI.Domain.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucia\\Downloads\\AmecysWebAPI\\AmecysAPI.Domain\\AmecysAPI.Domain.csproj": {}
+    "C:\\Users\\lucia\\OneDrive\\Documentos\\Amecys\\AmecysWebAPI\\AmecysAPI.Domain\\AmecysAPI.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucia\\Downloads\\AmecysWebAPI\\AmecysAPI.Domain\\AmecysAPI.Domain.csproj": {
+    "C:\\Users\\lucia\\OneDrive\\Documentos\\Amecys\\AmecysWebAPI\\AmecysAPI.Domain\\AmecysAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucia\\Downloads\\AmecysWebAPI\\AmecysAPI.Domain\\AmecysAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\lucia\\OneDrive\\Documentos\\Amecys\\AmecysWebAPI\\AmecysAPI.Domain\\AmecysAPI.Domain.csproj",
         "projectName": "AmecysAPI.Domain",
-        "projectPath": "C:\\Users\\lucia\\Downloads\\AmecysWebAPI\\AmecysAPI.Domain\\AmecysAPI.Domain.csproj",
+        "projectPath": "C:\\Users\\lucia\\OneDrive\\Documentos\\Amecys\\AmecysWebAPI\\AmecysAPI.Domain\\AmecysAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucia\\Downloads\\AmecysWebAPI\\AmecysAPI.Domain\\obj\\",
+        "outputPath": "C:\\Users\\lucia\\OneDrive\\Documentos\\Amecys\\AmecysWebAPI\\AmecysAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fa4YPCO66rC6YeJB11/Ih3OYvjHdw7ZmWNT1FRoQ8QuTjy48XyaqomHXfA3EZLUpcOVPSDlL0JsXPeTrCVrc3Q==",
+  "dgSpecHash": "2XLFW/GZRqv51tdMdHd4s4GKWOgXlGaJYO+HalXESYvwC1m44Zv8aAe7d1M8GwjGq5LErsD870HsEEowfWJWdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucia\\Downloads\\AmecysWebAPI\\AmecysAPI\\AmecysAPI.csproj",
+  "projectFilePath": "C:\\Users\\lucia\\OneDrive\\Documentos\\Amecys\\AmecysWebAPI\\AmecysAPI\\AmecysAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucia\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
     "C:\\Users\\lucia\\.nuget\\packages\\mailkit\\4.7.1.1\\mailkit.4.7.1.1.nupkg.sha512",
