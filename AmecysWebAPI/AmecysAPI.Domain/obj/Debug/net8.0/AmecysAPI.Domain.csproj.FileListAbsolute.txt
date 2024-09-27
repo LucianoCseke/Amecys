@@ -1,0 +1,12 @@
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI.Domain\bin\Debug\net8.0\AmecysAPI.Domain.deps.json
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI.Domain\bin\Debug\net8.0\AmecysAPI.Domain.dll
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI.Domain\bin\Debug\net8.0\AmecysAPI.Domain.pdb
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI.Domain\obj\Debug\net8.0\AmecysAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI.Domain\obj\Debug\net8.0\AmecysAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI.Domain\obj\Debug\net8.0\AmecysAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI.Domain\obj\Debug\net8.0\AmecysAPI.Domain.AssemblyInfo.cs
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI.Domain\obj\Debug\net8.0\AmecysAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI.Domain\obj\Debug\net8.0\AmecysAPI.Domain.dll
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI.Domain\obj\Debug\net8.0\refint\AmecysAPI.Domain.dll
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI.Domain\obj\Debug\net8.0\AmecysAPI.Domain.pdb
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI.Domain\obj\Debug\net8.0\ref\AmecysAPI.Domain.dll

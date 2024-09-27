@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucia\\Downloads\\AmecysWebAPI\\AmecysAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C0C407-728F-4636-8027-C48090288513}|AmecysAPI.csproj|c:\\users\\lucia\\downloads\\amecyswebapi\\amecysapi\\controllers\\affiliatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C0C407-728F-4636-8027-C48090288513}|AmecysAPI.csproj|solutionrelative:controllers\\affiliatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C0C407-728F-4636-8027-C48090288513}|AmecysAPI.csproj|c:\\users\\lucia\\downloads\\amecyswebapi\\amecysapi\\amecysapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A1C0C407-728F-4636-8027-C48090288513}|AmecysAPI.csproj|solutionrelative:amecysapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C0C407-728F-4636-8027-C48090288513}|AmecysAPI.csproj|c:\\users\\lucia\\downloads\\amecyswebapi\\amecysapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C0C407-728F-4636-8027-C48090288513}|AmecysAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C0C407-728F-4636-8027-C48090288513}|AmecysAPI.csproj|c:\\users\\lucia\\downloads\\amecyswebapi\\amecysapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1C0C407-728F-4636-8027-C48090288513}|AmecysAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F923249-3C1F-44DB-A5B5-166CCC9A2052}|..\\AmecysAPI.Domain\\AmecysAPI.Domain.csproj|c:\\users\\lucia\\downloads\\amecyswebapi\\amecysapi.domain\\models\\affiliatesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AmecysAPI.http",
+              "DocumentMoniker": "C:\\Users\\lucia\\Downloads\\AmecysWebAPI\\AmecysAPI\\AmecysAPI.http",
+              "RelativeDocumentMoniker": "AmecysAPI.http",
+              "ToolTip": "C:\\Users\\lucia\\Downloads\\AmecysWebAPI\\AmecysAPI\\AmecysAPI.http",
+              "RelativeToolTip": "AmecysAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-26T03:35:15.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AffiliatesForm.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\Downloads\\AmecysWebAPI\\AmecysAPI.Domain\\Models\\AffiliatesForm.cs",
+              "RelativeDocumentMoniker": "..\\AmecysAPI.Domain\\Models\\AffiliatesForm.cs",
+              "ToolTip": "C:\\Users\\lucia\\Downloads\\AmecysWebAPI\\AmecysAPI.Domain\\Models\\AffiliatesForm.cs",
+              "RelativeToolTip": "..\\AmecysAPI.Domain\\Models\\AffiliatesForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:59:56.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\Downloads\\AmecysWebAPI\\AmecysAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lucia\\Downloads\\AmecysWebAPI\\AmecysAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:43:21.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lucia\\Downloads\\AmecysWebAPI\\AmecysAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lucia\\Downloads\\AmecysWebAPI\\AmecysAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T03:37:44.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AffiliatesController.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\Downloads\\AmecysWebAPI\\AmecysAPI\\Controllers\\AffiliatesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AffiliatesController.cs",
+              "ToolTip": "C:\\Users\\lucia\\Downloads\\AmecysWebAPI\\AmecysAPI\\Controllers\\AffiliatesController.cs",
+              "RelativeToolTip": "Controllers\\AffiliatesController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowBQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:36:01.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

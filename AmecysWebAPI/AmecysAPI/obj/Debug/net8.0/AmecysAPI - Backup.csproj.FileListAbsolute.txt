@@ -1,0 +1,7 @@
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI\obj\Debug\net8.0\AmecysAPI - Backup.csproj.AssemblyReference.cache
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI\obj\Debug\net8.0\AmecysAPI - Backup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI\obj\Debug\net8.0\AmecysAPI - Backup.AssemblyInfoInputs.cache
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI\obj\Debug\net8.0\AmecysAPI - Backup.AssemblyInfo.cs
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI\obj\Debug\net8.0\AmecysAPI - Backup.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI\obj\Debug\net8.0\AmecysAPI - Backup.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucia\Downloads\AmecysWebAPI\AmecysAPI\obj\Debug\net8.0\AmecysAPI - Backup.MvcApplicationPartsAssemblyInfo.cache

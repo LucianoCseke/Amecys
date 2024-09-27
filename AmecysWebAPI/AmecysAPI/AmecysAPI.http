@@ -1,0 +1,6 @@
+@AmecysAPI_HostAddress = http://localhost:5223
+
+POST {{AmecysAPI_HostAddress}}/Affiliates/
+Accept: application/json
+
+###
