@@ -3,9 +3,9 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 # Copiar los archivos .csproj y restaurar dependencias
-COPY ["AmecysAPI/AmecysAPI.csproj", "AmecysAPI/"]
-COPY ["AmecysAPI.DataAccessLayer/AmecysAPI.DataAccessLayer.csproj", "AmecysAPI.DataAccessLayer/"]
-COPY ["AmecysAPI.Domain/AmecysAPI.Domain.csproj", "AmecysAPI.Domain/"]
+COPY ./AmecysAPI/AmecysAPI.csproj ./AmecysAPI/
+COPY ./AmecysAPI.DataAccessLayer/AmecysAPI.DataAccessLayer.csproj ./AmecysAPI.DataAccessLayer/
+COPY ./AmecysAPI.Domain/AmecysAPI.Domain.csproj ./AmecysAPI.Domain/
 
 RUN dotnet restore "AmecysAPI/AmecysAPI.csproj"
 
