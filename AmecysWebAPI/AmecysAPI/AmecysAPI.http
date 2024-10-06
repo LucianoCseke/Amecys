@@ -1,4 +1,4 @@
-@AmecysAPI_HostAddress = http://localhost:5223
+@AmecysAPI_HostAddress = https://amecys-backend.onrender.com
 
 POST {{AmecysAPI_HostAddress}}/Affiliates/
 Accept: application/json
