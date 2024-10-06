@@ -1,37 +1,29 @@
-﻿# Use the official .NET SDK image for building the app
-FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-
-# Set the working directory inside the container
+﻿FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# Copy the solution file and project files for restoring dependencies
-COPY *.sln ./
-COPY AmecysAPI/AmecysAPI.csproj AmecysAPI/
-COPY AmecysAPI.DataAccessLayer/AmecysAPI.DataAccessLayer.csproj AmecysAPI.DataAccessLayer/
-COPY AmecysAPI.Domain/AmecysAPI.Domain.csproj AmecysAPI.Domain/
+# Copiar los archivos de proyecto
+COPY ["AmecysAPI/AmecysAPI.csproj", "AmecysAPI/"]
+COPY ["AmecysAPI.DataAccessLayer/AmecysAPI.DataAccessLayer.csproj", "AmecysAPI.DataAccessLayer/"]
+COPY ["AmecysAPI.Domain/AmecysAPI.Domain.csproj", "AmecysAPI.Domain/"]
 
-# Restore dependencies
-RUN dotnet restore
+# Restaurar dependencias
+RUN dotnet restore "AmecysAPI/AmecysAPI.csproj"
 
-# Copy the rest of the source code
+# Copiar el resto del código
 COPY . .
 
-# Build the application
-WORKDIR /src/AmecysAPI
-RUN dotnet build AmecysAPI.csproj -c Release -o /app
+# Compilar la aplicación
+RUN dotnet build "AmecysAPI/AmecysAPI.csproj" -c Release -o /app/build
 
-# Publish the application
-RUN dotnet publish AmecysAPI.csproj -c Release -o /app
+# Publicar la aplicación
+RUN dotnet publish "AmecysAPI/AmecysAPI.csproj" -c Release -o /app/publish
 
-# Use the ASP.NET runtime image
+# Etapa de ejecución
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 WORKDIR /app
-COPY --from=build /app .
+COPY --from=build /app/publish .
 
-# Expose the port the app will run on
-EXPOSE 80
-
-# Set the entry point for the container
+# Comando de inicio
 ENTRYPOINT ["dotnet", "AmecysAPI.dll"]
 
 
