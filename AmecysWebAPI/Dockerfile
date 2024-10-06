@@ -1,30 +1,31 @@
-﻿FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+﻿# Usar la imagen de SDK de .NET para construir la aplicación
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# Copiar los archivos de proyecto
+# Copiar los archivos .csproj y restaurar dependencias
 COPY ["AmecysAPI/AmecysAPI.csproj", "AmecysAPI/"]
 COPY ["AmecysAPI.DataAccessLayer/AmecysAPI.DataAccessLayer.csproj", "AmecysAPI.DataAccessLayer/"]
 COPY ["AmecysAPI.Domain/AmecysAPI.Domain.csproj", "AmecysAPI.Domain/"]
 
-# Restaurar dependencias
 RUN dotnet restore "AmecysAPI/AmecysAPI.csproj"
 
-# Copiar el resto del código
+# Copiar el resto de los archivos y compilar
 COPY . .
 
-# Compilar la aplicación
-RUN dotnet build "AmecysAPI/AmecysAPI.csproj" -c Release -o /app/build
+# Cambiar al directorio del proyecto principal
+WORKDIR "/src/AmecysAPI"
+RUN dotnet build "AmecysAPI.csproj" -c Release -o /app/build
 
 # Publicar la aplicación
-RUN dotnet publish "AmecysAPI/AmecysAPI.csproj" -c Release -o /app/publish
+FROM build AS publish
+RUN dotnet publish "AmecysAPI.csproj" -c Release -o /app/publish
 
-# Etapa de ejecución
+# Generar la imagen final
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 WORKDIR /app
-COPY --from=build /app/publish .
-
-# Comando de inicio
+COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "AmecysAPI.dll"]
+
 
 
 
