@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmecysAPI.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41e95e54f07ced221f01c285010927b699ae843c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15f60a10bc418d152dda1bbada9d907908f8b4b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmecysAPI.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmecysAPI.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

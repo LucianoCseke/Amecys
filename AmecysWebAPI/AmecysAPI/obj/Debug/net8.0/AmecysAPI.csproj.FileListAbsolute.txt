@@ -47,3 +47,11 @@ C:\Users\lucia\OneDrive\Documentos\Amecys\AmecysWebAPI\AmecysAPI\obj\Debug\net8.
 C:\Users\lucia\OneDrive\Documentos\Amecys\AmecysWebAPI\AmecysAPI\obj\Debug\net8.0\AmecysAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\lucia\OneDrive\Documentos\Amecys\AmecysWebAPI\AmecysAPI\obj\Debug\net8.0\AmecysAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\lucia\OneDrive\Documentos\Amecys\AmecysWebAPI\AmecysAPI\obj\Debug\net8.0\AmecysAPI.sourcelink.json
+C:\Users\lucia\OneDrive\Documentos\GitHub\Amecys\AmecysWebAPI\AmecysAPI\obj\Debug\net8.0\AmecysAPI.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Documentos\GitHub\Amecys\AmecysWebAPI\AmecysAPI\obj\Debug\net8.0\AmecysAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Documentos\GitHub\Amecys\AmecysWebAPI\AmecysAPI\obj\Debug\net8.0\AmecysAPI.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Documentos\GitHub\Amecys\AmecysWebAPI\AmecysAPI\obj\Debug\net8.0\AmecysAPI.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Documentos\GitHub\Amecys\AmecysWebAPI\AmecysAPI\obj\Debug\net8.0\AmecysAPI.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Documentos\GitHub\Amecys\AmecysWebAPI\AmecysAPI\obj\Debug\net8.0\AmecysAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucia\OneDrive\Documentos\GitHub\Amecys\AmecysWebAPI\AmecysAPI\obj\Debug\net8.0\AmecysAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucia\OneDrive\Documentos\GitHub\Amecys\AmecysWebAPI\AmecysAPI\obj\Debug\net8.0\AmecysAPI.sourcelink.json

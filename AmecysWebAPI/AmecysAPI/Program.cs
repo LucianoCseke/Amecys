@@ -9,7 +9,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowSpecificOrigin",
-        policy => policy.WithOrigins("http://localhost:3000")
+        policy => policy.WithOrigins("https://www.amecys.org.ar")
                         .AllowAnyMethod()
                         .AllowAnyHeader());
 });

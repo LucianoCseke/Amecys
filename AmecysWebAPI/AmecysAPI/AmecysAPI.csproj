@@ -6,13 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Remove="Dockerfile" />
+  <!--<ItemGroup>
+    <None Include="Dockerfile" />
   </ItemGroup>
 
   <ItemGroup>
     <Compile Include="Dockerfile" />
-  </ItemGroup>
+  </ItemGroup>-->
 
   <ItemGroup>
     <PackageReference Include="MailKit" Version="4.7.1.1" />

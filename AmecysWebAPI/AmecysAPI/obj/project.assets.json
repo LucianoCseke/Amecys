@@ -891,11 +891,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucia\\OneDrive\\Documentos\\Amecys\\AmecysWebAPI\\AmecysAPI\\AmecysAPI.csproj",
+      "projectUniqueName": "C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Amecys\\AmecysWebAPI\\AmecysAPI\\AmecysAPI.csproj",
       "projectName": "AmecysAPI",
-      "projectPath": "C:\\Users\\lucia\\OneDrive\\Documentos\\Amecys\\AmecysWebAPI\\AmecysAPI\\AmecysAPI.csproj",
+      "projectPath": "C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Amecys\\AmecysWebAPI\\AmecysAPI\\AmecysAPI.csproj",
       "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucia\\OneDrive\\Documentos\\Amecys\\AmecysWebAPI\\AmecysAPI\\obj\\",
+      "outputPath": "C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Amecys\\AmecysWebAPI\\AmecysAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -916,11 +916,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\lucia\\OneDrive\\Documentos\\Amecys\\AmecysWebAPI\\AmecysAPI.DataAccessLayer\\AmecysAPI.DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\lucia\\OneDrive\\Documentos\\Amecys\\AmecysWebAPI\\AmecysAPI.DataAccessLayer\\AmecysAPI.DataAccessLayer.csproj"
+            "C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Amecys\\AmecysWebAPI\\AmecysAPI.DataAccessLayer\\AmecysAPI.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Amecys\\AmecysWebAPI\\AmecysAPI.DataAccessLayer\\AmecysAPI.DataAccessLayer.csproj"
             },
-            "C:\\Users\\lucia\\OneDrive\\Documentos\\Amecys\\AmecysWebAPI\\AmecysAPI.Domain\\AmecysAPI.Domain.csproj": {
-              "projectPath": "C:\\Users\\lucia\\OneDrive\\Documentos\\Amecys\\AmecysWebAPI\\AmecysAPI.Domain\\AmecysAPI.Domain.csproj"
+            "C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Amecys\\AmecysWebAPI\\AmecysAPI.Domain\\AmecysAPI.Domain.csproj": {
+              "projectPath": "C:\\Users\\lucia\\OneDrive\\Documentos\\GitHub\\Amecys\\AmecysWebAPI\\AmecysAPI.Domain\\AmecysAPI.Domain.csproj"
             }
           }
         }
@@ -976,7 +976,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
