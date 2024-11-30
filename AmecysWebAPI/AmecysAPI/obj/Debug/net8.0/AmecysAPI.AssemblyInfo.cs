@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmecysAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+815fb4bb0a5a18e69f67923cc042978e3b3ee8fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b0c92451b6b72a384ba7015589e4e629e6c9e15")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmecysAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmecysAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmecysAPI.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15f60a10bc418d152dda1bbada9d907908f8b4b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b0c92451b6b72a384ba7015589e4e629e6c9e15")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmecysAPI.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmecysAPI.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

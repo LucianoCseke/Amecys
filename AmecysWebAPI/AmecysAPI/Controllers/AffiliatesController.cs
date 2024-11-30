@@ -26,12 +26,14 @@ namespace AffiliatesAPI.Controllers
                 {
                     var emailMessage = new MimeMessage();
 
-                    // Configurar los campos del correo
                     emailMessage.From.Add(new MailboxAddress(
                         _configuration["SmtpSettings:SenderName"],
                         _configuration["SmtpSettings:SenderEmail"]
                     ));
-                    emailMessage.To.Add(new MailboxAddress("Destino", "luchoocseke123@gmail.com"));
+                    emailMessage.To.Add(new MailboxAddress(
+                        "Destino",
+                        _configuration["SmtpSettings:RecipientEmail"]
+                    ));
                     emailMessage.Subject = "Formulario de Afiliación";
                     emailMessage.Body = new TextPart("plain")
                     {
@@ -41,7 +43,7 @@ namespace AffiliatesAPI.Controllers
                                $"Tipo de Afiliación: {form.ServiceType}"
                     };
 
-                    // Uso de MailKit para enviar el correo
+                    // MailKit
                     using (var client = new MailKit.Net.Smtp.SmtpClient())
                     {
                         client.Connect(
