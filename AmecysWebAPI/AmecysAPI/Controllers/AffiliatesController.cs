@@ -30,10 +30,7 @@ namespace AffiliatesAPI.Controllers
                         _configuration["SmtpSettings:SenderName"],
                         _configuration["SmtpSettings:SenderEmail"]
                     ));
-                    emailMessage.To.Add(new MailboxAddress(
-                        "Destino",
-                        _configuration["SmtpSettings:RecipientEmail"]
-                    ));
+                    emailMessage.To.Add(new MailboxAddress("Destino", "luchoocseke123@gmail.com"));
                     emailMessage.Subject = "Formulario de Afiliación";
                     emailMessage.Body = new TextPart("plain")
                     {
